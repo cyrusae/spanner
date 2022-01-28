@@ -1,0 +1,30 @@
+{
+  "name": "spanner",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyrusae/spanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyrusae/spanner/issues"
+  },
+  "homepage": "https://github.com/cyrusae/spanner#readme",
+  "dependencies": {
+    "rehype-stringify": "^9.0.2",
+    "remark": "^14.0.2",
+    "remark-parse": "^10.0.1",
+    "remark-rehype": "^10.1.0",
+    "remark-stringify": "^10.0.2",
+    "retext": "^8.1.0",
+    "vfile-reporter": "^7.0.3"
+  }
+}
