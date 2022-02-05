@@ -109,9 +109,9 @@ Yep!
 #### Add ability to run lads after load (lot of lag risk here):
 - Ability for Spanner to run after load 
 - Ability for Spanner to act on arbitrary parts of the page 
-- Investigate how plugin integration for this sort of thing ideally works
 
 #### Long-term QOL improvements 
 - Let Embalmer add/change other features (e.g. increase text size, switch font to Dyslexie or other user-determined readable preference) of the text *while* applying colors, and have that happen in a `div` surrounding Embalmer's output 
 - Create stripped-down versions for people who know what they want so there aren't conflicting options 
 - Move some user interaction to a settings file instead of requiring specific inputs, same for user-generated constants 
+- Client-side plugin usages 
